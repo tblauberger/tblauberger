@@ -1,4 +1,6 @@
-<h1>Hej, I'm Tim! <br/><a(https://www.linkedin.com/in/tim-blauberger-b0b924327/)">MSc Psychology</a>
+<h1>Hej, I'm Tim! <br/>
+  
+<b>MSc Psychology</b>
 
 <h2>Writing Examples</h2>
 
